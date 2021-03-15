@@ -22,6 +22,13 @@ export const Pcmoguer: Store = {
       model: 'ventus 3x oc',
       series: '3080',
       url:
+        'http://www.pcmoguer.es/catalogue/teclado-tacens-anima-ak0es_57157/',
+    },
+	    {
+      brand: 'msi',
+      model: 'ventus 3x oc',
+      series: '3080',
+      url:
         'http://www.pcmoguer.es/catalogue/tarjeta-grafica-gigabyte-aorus-geforce-rtx-3080-master-10g-10gb-gddr6x_60058/',
     },
 	{
