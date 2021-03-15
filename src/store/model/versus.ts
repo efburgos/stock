@@ -3,7 +3,7 @@ import {Store} from './store';
 export const Versus: Store = {
   currency: '€',
   labels: {
-    instock: {
+    inStock: {
       container: '#vs-product-sheet-dashboard',
       text: ['Comprar'],
     },
@@ -11,7 +11,7 @@ export const Versus: Store = {
       container: 'div[class="current ng-binding"]',
       euroFormat: true,
     },
-    outOfstock: {
+    outOfStock: {
       container: '#vs-product-sheet-dashboard',
       text: ['avísame'],
     },
