@@ -1,6 +1,6 @@
-import {store} from './store';
+import {Store} from './Store';
 
-export const versus: store = {
+export const Versus: Store = {
   currency: '€',
   labels: {
     instock: {
