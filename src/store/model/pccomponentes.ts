@@ -511,7 +511,7 @@ export const PCComponentes: Store = {
     },
     {
       brand: 'msi',
-      model: 'ventus',
+      model: 'ventus 2x',
       series: '3060',
       url:
         'https://www.pccomponentes.com/msi-rtx-3060-ti-ventus-2x-oc-8gb-gddr6-reacondicionado',
@@ -546,7 +546,7 @@ export const PCComponentes: Store = {
     },
     {
       brand: 'pny',
-      model: 'xlr8',
+      model: 'gaming',
       series: '3060',
       url:
         'https://www.pccomponentes.com/pny-geforce-rtx-3060ti-xlr8-gaming-revel-epic-x-rgb-edition-8gb-gddr6-reacondicionado',
