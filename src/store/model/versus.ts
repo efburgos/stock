@@ -13,7 +13,7 @@ export const Versus: Store = {
     },
     outOfStock: {
       container: '#vs-product-sheet-dashboard',
-      text: ['avísame'],
+      text: ['Avísame'],
     },
   },
   links: [
@@ -24,9 +24,11 @@ export const Versus: Store = {
       url:
         'https://www.vsgamers.es/product/silla-gaming-msi-mag-ch120-negro-rojo',
     },
+    
+  
     {
       brand: 'asus',
-      model: 'rog-strix',
+      model: 'strix',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-asus-rog-strix-geforce-rtx-3090-24-gb-gddr6x-blanca',
@@ -40,14 +42,14 @@ export const Versus: Store = {
     },
 	    {
       brand: 'asus',
-      model: 'rog-strix',
+      model: 'strix',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-asus-rog-strix-geforce-rtx-3090-gaming-24g-24-gb-gddr6x',
     },
 	    {
       brand: 'msi',
-      model: 'ventus',
+      model: 'ventus 3x',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-msi-geforce-rtx-3090-ventus-3x-24g-oc-24-gb-gddr6x',
@@ -82,14 +84,14 @@ export const Versus: Store = {
     },
 	    {
       brand: 'msi',
-      model: 'trio',
+      model: 'gaming x trio',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-msi-geforce-rtx-3080-gaming-x-trio-10g-10-gb-gddr6x',
     },
 	    {
       brand: 'asus',
-      model: 'rog-strix',
+      model: 'strix',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-asus-rog-strix-geforce-rtx-3070-white-oc-8gb-gddr6',
@@ -131,21 +133,21 @@ export const Versus: Store = {
     },
 	    {
       brand: 'asus',
-      model: 'rog-strix',
+      model: 'strix',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-asus-rog-strix-geforce-rtx-3070-gaming-8g-8-gb-gddr6x',
     },
 	    {
       brand: 'asus',
-      model: 'rog-strix',
+      model: 'strix',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-asus-rog-strix-geforce-rtx-3080-gaming-10g-10-gb-gddr6x',
     },
 	    {
       brand: 'msi',
-      model: 'trio',
+      model: 'gaming x trio',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-msi-geforce-rtxr-3070-gaming-x-trio',
@@ -159,7 +161,7 @@ export const Versus: Store = {
     },
 	    {
       brand: 'zotac',
-      model: 'amp-holo',
+      model: 'amp holo',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/zotac-geforce-rtx-3070-amp-holo-nvidia-8-gb-gddr6',
@@ -180,7 +182,7 @@ export const Versus: Store = {
     },
 	    {
       brand: 'asus',
-      model: 'rog-strix',
+      model: 'strix',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-asus-rog-strix-geforce-rtx-3060-ti-gaming-oc-8gb-gddr6',
@@ -214,15 +216,15 @@ export const Versus: Store = {
         'https://www.vsgamers.es/product/tarjeta-grafica-zotac-gaming-geforce-rtx-3070-twin-edge-oc-8-gb-gddr6',
     },
 	    {
-      brand: 'zotac',
-      model: 'twin edge',
+      brand: 'gigabyte',
+      model: 'eagle',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-gigabyte--geforce-rtxr-3070-eagle-oc-8g',
     },
 	    {
-      brand: 'Palit',
-      model: 'gaming Pro',
+      brand: 'palit',
+      model: 'gaming pro',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-palit-geforce-rtx-3070-gaming-pro-8-gb-gddr6',
@@ -264,7 +266,7 @@ export const Versus: Store = {
     },
 	    {
       brand: 'gigabyte',
-      model: 'master',
+      model: 'aorus master',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-gigabyte-geforce-rtxr-3060-ti-master-8g',
