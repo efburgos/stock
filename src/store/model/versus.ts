@@ -1,9 +1,9 @@
-import {Store} from './store';
+import {store} from './store';
 
-export const versus: Store = {
+export const versus: store = {
   currency: '€',
   labels: {
-    inStock: {
+    instock: {
       container: '#vs-product-sheet-dashboard',
       text: ['Comprar'],
     },
@@ -11,7 +11,7 @@ export const versus: Store = {
       container: 'div[class="current ng-binding"]',
       euroFormat: true,
     },
-    outOfStock: {
+    outOfstock: {
       container: '#vs-product-sheet-dashboard',
       text: ['avísame'],
     },
@@ -194,7 +194,7 @@ export const versus: Store = {
     },
 	    {
       brand: 'zotac',
-      model: 'twin Edge',
+      model: 'twin edge',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-zotac-geforce-rtx-3070-twin-edge-oc-white-edition-8-gb-gddr6',
@@ -208,7 +208,7 @@ export const versus: Store = {
     },
 	    {
       brand: 'zotac',
-      model: 'twin Edge',
+      model: 'twin edge',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-zotac-gaming-geforce-rtx-3070-twin-edge-oc-8-gb-gddr6',
@@ -229,21 +229,21 @@ export const versus: Store = {
     },
 	    {
       brand: 'msi',
-      model: 'Suprim',
+      model: 'suprim',
       series: '3090',
       url:
         'hhttps://www.vsgamers.es/product/tarjeta-grafica-msi-geforce-rtx-3070-suprim-x-8gb-gddr6',
     },
 	    {
       brand: 'asus',
-      model: 'Dual',
+      model: 'dual',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-asus-dual-geforce-rtx-3060-ti-8gb-gddr6',
     },
 	    {
       brand: 'asus',
-      model: 'Dual',
+      model: 'dual',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-asus-dual-geforce-rtx3060ti-mini-oc-edition-8-gb-gddr6',
@@ -264,7 +264,7 @@ export const versus: Store = {
     },
 	    {
       brand: 'gigabyte',
-      model: 'Master',
+      model: 'master',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-gigabyte-geforce-rtxr-3060-ti-master-8g',
@@ -278,14 +278,14 @@ export const versus: Store = {
     },
 	    {
       brand: 'asus',
-      model: 'Dual',
+      model: 'dual',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-asus-dual-geforce-rtx-3060-ti-oc-8gb-gddr6',
     },
 	    {
       brand: 'zotac',
-      model: 'twin Edge',
+      model: 'twin edge',
       series: '3090',
       url:
         'https://www.vsgamers.es/product/tarjeta-grafica-zotac-geforce-rtx-3070-twin-edge-8-gb-gddr6x',
