@@ -1,19 +1,19 @@
 import {Store} from './store';
 
 export const Game: Store = {
-  currency: '£',
+  currency: '€',
   labels: {
     inStock: {
-      container: '.buyingOptions',
-      text: ['Pre-order Now', 'Buy New'],
+      container: 'section.right-side.product-quick-actions',
+      text: ['Comprar'],
     },
     maxPrice: {
-      container: '.buyingOptions .btnPrice',
+      container: '.buy--price',
       euroFormat: false,
     },
     outOfStock: {
-      container: '.buyingOptions',
-      text: ['out of stock'],
+      container: 'section.right-side.product-quick-actions',
+      text: ['Agotado'],
     },
   },
   links: [
@@ -22,31 +22,91 @@ export const Game: Store = {
       model: 'test:model',
       series: 'test:series',
       url:
-        'https://www.game.co.uk/en/ea-sports-fifa-21-500gb-ps4-bundle-2832947',
+        'https://www.game.es/VIDEOJUEGOS/ACCION/PLAYSTATION-4/PERSONA-5-STRIKERS-LIMITED-EDITION/185836',
     },
     {
-      brand: 'sony',
-      model: 'ps5 console',
-      series: 'sonyps5c',
-      url: 'https://www.game.co.uk/en/playstation-5-console-2826338',
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/GIGABYTE-AORUS-GEFORCE-RTX-3060TI-MASTER-8GB-DDR6X-TARJETA-GRAFICA/185822',
     },
-    {
-      brand: 'sony',
-      model: 'ps5 digital',
-      series: 'sonyps5de',
-      url: 'https://www.game.co.uk/en/playstation-5-digital-edition-2826341',
+	    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/MSI-RTX3070-GAMING-X-TRIO-NVIDIA-GEFORCE-RTX-3070-8-GB-GDDR6/V0PA1K',
     },
-    {
-      brand: 'microsoft',
-      model: 'xbox series x',
-      series: 'xboxsx',
-      url: 'https://www.game.co.uk/en/xbox-series-x-2831406',
+		    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/MSI-RTX3070-VENTUS-3X-OC-NVIDIA-GEFORCE-RTX-3070-8-GB-GDDR6/V0PA1J',
     },
-    {
-      brand: 'microsoft',
-      model: 'xbox series s',
-      series: 'xboxss',
-      url: 'https://www.game.co.uk/en/xbox-series-x-2831406',
+		    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/PALIT-RTX-3070-GAMING-PRO-8GB-GDDR6-TARJETA-GRAFICA/185005',
+    },
+		    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/GIGABYTE-GEFORCE-RTX-3070-VISION-OC-8GB-GDDR6-TARJETA-GRAFICA-GAMING/184795',
+    },
+		    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/GIGABYTE-GEFORCE-RTX-3070-GAMING-OC-8GB-GDDR6-TARJETA-GRAFICA-GAMING/184794',
+    },
+		    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/GIGABYTE-GEFORCE-RTX-3070-EAGLE-OC-8GB-GDDR6-TARJETA-GRAFICA-GAMING/184793',
+    },
+		    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/ZOTAC-GAMING-GEFORCE-RTX-3070-TWIN-EDGE-OC-WHITE-EDITION-NVIDIA-8-GB-GDDR6/V0PBLE',
+    },
+			    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/MSI-RTX-3080-GAMING-X-TRIO-10G-TARJETA-GRAFICA-NVIDIA-GEFORCE-RTX-3080-10-GB-GDDR6X/V0P9YG',
+    },
+			    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/PALIT-RTX-3080-GAMING-PRO-10GB-GDDR6X-TARJETA-GRAFICA/185006',
+    },
+			    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/GIGABYTE-GEFORCE-RTX-3080-MASTER-10GB-GDDR6X-TARJETA-GRAFICA-GAMING/184796',
+    },
+			    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/GIGABYTE-GEFORCE-RTX-3080-EAGLE-OC-10GB-GDDR6X-TARJETA-GRAFICA-GAMING/184791',
+    },
+			    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/GIGABYTE-GEFORCE-RTX-3080-GAMING-OC-10GB-GDDR6X-TARJETA-GRAFICA-GAMING/184792',
+    },
+			    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3080',
+      url: 'https://www.game.es/COMPONENTES/TARJETA-GRAFICA/PC-GAMING/GIGABYTE-AOURUS-GEFORCE-RTX-3080-VISION-OC-10GB-GDDR6X-TARJETA-GRAFICA-GAMING/184797',
     },
   ],
   name: 'game',
