@@ -172,9 +172,9 @@ export const PCComponentes: Store = {
         'https://www.pccomponentes.com/gigabyte-aorus-radeon-rx-5700-xt-8gb-gddr6',
     },
 	    {
-      brand: 'test:brand',
-      model: 'test:model',
-      series: 'test:series',
+      brand: 'zotac',
+      model: 'strix',
+      series: '3070',
       url:
         'https://www.pccomponentes.com/gigabyte-geforce-gtx-1660-super-oc-6gb-gddr6',
     },
