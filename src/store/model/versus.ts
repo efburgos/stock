@@ -274,7 +274,7 @@ export const Versus: Store = {
       model: 'twin edge',
       series: '3090',
       url:
-        'hhttps://www.vsgamers.es/product/tarjeta-grafica-asus-tuf-gaming-geforce-rtx-3060-ti-oc-8gb-gddr6',
+        'https://www.vsgamers.es/product/tarjeta-grafica-asus-tuf-gaming-geforce-rtx-3060-ti-oc-8gb-gddr6',
     },
 	    {
       brand: 'zotac',
@@ -309,7 +309,7 @@ export const Versus: Store = {
       model: 'twin edge',
       series: '3090',
       url:
-        'hhttps://www.vsgamers.es/product/tarjeta-grafica-geforce-rtx-3060-ti-ventus-2x-ocv1-8gb-gddr6',
+        'https://www.vsgamers.es/product/tarjeta-grafica-geforce-rtx-3060-ti-ventus-2x-ocv1-8gb-gddr6',
     },
   ],
   name: 'versus',
