@@ -17,13 +17,6 @@ export const Aussar: Store = {
     },
   },
   links: [
-    {
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
-      url:
-        'https://www.aussar.es/perifericos/glorious-pc-gaming-race-model-o-wireless-mouse-negro.html',
-    },
 	      {
       brand: 'msi',
       model: 'ventus 3x oc',
