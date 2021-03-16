@@ -146,7 +146,6 @@ import {Unieuro} from './unieuro';
 import {Very} from './very';
 import {Versus} from './versus';
 import {Vuugo} from './vuugo';
-import {Wallapop} from './wallapop';
 import {Walmart} from './walmart';
 import {WalmartCa} from './walmart-ca';
 import {WellsTechnology} from './wellstechnology';
@@ -303,7 +302,6 @@ export const storeList = new Map([
   [Very.name, Very],
   [Versus.name, Versus],
   [Vuugo.name, Vuugo],
-  [Wallapop.name, Wallapop],  
   [Walmart.name, Walmart],
   [WalmartCa.name, WalmartCa],
   [WellsTechnology.name, WellsTechnology],
