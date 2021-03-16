@@ -13,7 +13,6 @@ export const Pcbox: Store = {
     },
   },
   links: [
-{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.pcbox.com/productos/ntw18266/ordenador-netway-i5-10400-29ghz8gb-ddr4480gb',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.pcbox.com/productos/gby1697/tarjeta-grafica-24gb-gigabyte-geforce',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.pcbox.com/productos/gby1683/tarjeta-grafica-24gb-gigabyte-geforce',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.pcbox.com/productos/gby1705/tarjeta-grafica-24gb-gigabyte-geforce',     },
