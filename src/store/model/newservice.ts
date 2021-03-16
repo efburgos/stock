@@ -13,8 +13,6 @@ export const Newservice: Store = {
     },
   },
   links: [
-  {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tiendanewservicejerez.com/pc-portatiles/7920-portatil-hp-omen-15-ek0018ns-i7-10750h-156pulgadas-194850911279.html',     },
-{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tiendanewservicejerez.com/pc-portatiles/8677-portatil-msi-15-a10sdtcreator-065es-i7-10750h-2x16gb-4719072732257.html',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tiendanewservicejerez.com/tarjetas-graficas/9061-tarjeta-grafica-pny-nvidia-geforce-rtx.html',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tiendanewservicejerez.com/tarjetas-graficas/9060-tarjeta-grafica-pny-nvidia-geforce-rtx.html',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tiendanewservicejerez.com/tarjetas-graficas/9076-tarjeta-grafica-pny-nvidia-geforce-rtx-751492639567.html',     },
