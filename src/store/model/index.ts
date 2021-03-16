@@ -122,6 +122,7 @@ import {Pny} from './pny';
 import {ProshopDE} from './proshop-de';
 import {ProshopDK} from './proshop-dk';
 import {Rachela} from './rachela';
+import {Redcomputer} from './redcomputer';
 import {Rosman} from './rosman';
 import {Ribermatica} from './ribermatica';
 import {RosmanMelb} from './rosman-melb';
@@ -280,6 +281,7 @@ export const storeList = new Map([
   [ProshopDE.name, ProshopDE],
   [ProshopDK.name, ProshopDK],
   [Rachela.name, Rachela],
+  [Redcomputer.name, Redcomputer],  
   [Rosman.name, Rosman],
   [Ribermatica.name, Ribermatica],
   [RosmanMelb.name, RosmanMelb],
