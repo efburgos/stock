@@ -17,293 +17,81 @@ export const Neobyte: Store = {
     },
   },
   links: [
-    {
-      brand: 'test:brand',
-      model: 'test:model',
-      series: 'test:series',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-msi-710-2gd3h-lp-1130.html',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3090',
-      url:
-        'https://www.neobyte.es/asus-tuf-rtx-3090-oc-gaming-24gb-7279.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3090',
-      url:
-        'https://www.neobyte.es/asus-rog-strix-rtx-3090-oc-gaming-24gb-7283.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3090',
-      url:
-        'https://www.neobyte.es/asus-rog-strix-rtx-3090-gaming-24gb-7284.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3090',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-rog-strix-rtx3090-oc-24gb-white-edition-8114.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3090',
-      url:
-        'https://www.neobyte.es/grafica-msi-rtx-3090-gaming-x-trio-24g-7287.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3090',
-      url:
-        'https://www.neobyte.es/grafica-msi-rtx-3090-ventus-3x-24g-oc-7288.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3080',
-      url:
-        'https://www.neobyte.es/gigabyte-rtx-3080-gaming-oc-10gb-7277.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3080',
-      url:
-        'https://www.neobyte.es/asus-tuf-rtx-3080-oc-gaming-10gb-7281.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3080',
-      url:
-        'https://www.neobyte.es/asus-tuf-rtx-3080-gaming-10gb-7282.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3080',
-      url:
-        'https://www.neobyte.es/gigabyte-rtx-3080-vision-oc-10g-7440.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3080',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-rog-strix-rtx3080-oc-10gb-white-edition-8205.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3080',
-      url:
-        'https://www.neobyte.es/asus-rog-strix-rtx-3080-oc-gaming-10gb-7285.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3080',
-      url:
-        'https://www.neobyte.es/gigabyte-rtx-3080-aorus-x-10gb-7840.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3080',
-      url:
-        'https://www.neobyte.es/gigabyte-rtx-3080-aorus-master-10gb-7483.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/asus-rog-strix-rtx-3070-oc-8gb-gaming-7291.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/asus-dual-rtx-3070-oc-8gb-7293.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/asus-dual-rtx-3070-8gb-7294.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/gigabyte-rtx-3070-gaming-oc-8gb-7484.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/gigbyte-rtx-3070-aorus-master-8gb-7770.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/asus-tuf-rtx-3070-gaming-8gb-7822.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-strix-rtx3070-oc-8gb-blanca-8206.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-rog-strix-geforce-rtx-3070-white-edition-8523.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/asus-rog-strix-rtx-3070-8gb-gaming-7292.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3080',
-      url:
-        'https://www.neobyte.es/gigabyte-rtx-3080-eagle-oc-10gb-7278.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-tuf-rtx3070-oc-gaming-8gb-7961.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-tuf-rtx-3070-gaming-8gb-8049.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3070',
-      url:
-        'https://www.neobyte.es/gigabyte-rtx-3070-vision-oc-8gb-7788.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-rog-strix-rtx-3060-ti-8gb-gaming-7915.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/aorus-geforce-rtx-3060-ti-master-8gb-7863.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-tuf-rtx-3060-ti-oc-8gb-gaming-7912.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx3060ti-gaming-oc-pro-8-7918.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx3060ti-gaming-oc-pro-8-rev-2-8482.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-dual-rtx3060ti-mini-oc-8gb-8469.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-dual-rtx-3060-ti-oc-8gb-7913.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-dual-rtx3060ti-8gb-7914.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-asus-tuf-rtx-3060-ti-8gb-gaming-7916.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx-3060ti-vision-8gb-8439.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx-3060ti-gaming-oc-8gb-7917.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx-3060ti-eagle-oc-8gb-7907.html',
-    },
-	    {
-      brand: 'asus',
-      model: 'tuf',
-      series: '3060ti',
-      url:
-        'https://www.neobyte.es/aorus-geforce-rtx-3060-ti-eagle-8gb-7897.html',
-    },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-tuf-rtx-3090-oc-gaming-24gb-7279.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-rog-strix-rtx-3090-oc-gaming-24gb-7283.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-rog-strix-rtx-3090-gaming-24gb-7284.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-rog-strix-rtx3090-oc-24gb-white-edition-8114.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/gigabyte-rtx-3090-gaming-oc-24gb-7275.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-strix-rx6900xt-lc-16gb-8521.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/gigabyte-rtx-3090-vision-oc-24g-7696.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-msi-rtx-3090-gaming-x-trio-24g-7287.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-tuf-gaming-rx-6900xt-16gb-8204.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-msi-rtx-3090-ventus-3x-24g-oc-7288.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/gigabyte-rtx-3080-gaming-oc-10gb-7277.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-rog-strix-rtx-3080-oc-gaming-10gb-7285.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/gigabyte-rtx-3080-vision-oc-10g-7440.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-tuf-rtx-3080-gaming-10gb-7282.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-tuf-rtx-3080-oc-gaming-10gb-7281.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-tuf-rx6800xt-16gb-gaming-8373.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-rog-strix-rtx3080-oc-10gb-white-edition-8205.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/gigabyte-rtx-3080-aorus-x-10gb-7840.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-strix-rx-6700xt-gaming-oc-12g-8833.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-rx6800xt-gaming-oc-16gb-8481.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/gigabyte-rtx-3080-aorus-master-10gb-7483.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/gigbyte-rtx-3070-aorus-master-8gb-7770.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx3070-eagle-8gb-8779.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-tuf-rtx-3070-gaming-8gb-7822.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-dual-rtx-3070-oc-8gb-7293.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/gigabyte-rtx-3070-gaming-oc-8gb-7484.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-dual-rtx-3070-8gb-7294.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-rog-strix-rtx-3070-8gb-gaming-7292.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-rog-strix-rtx-3070-oc-8gb-gaming-7291.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-strix-rtx3070-oc-8gb-blanca-8206.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-rog-strix-geforce-rtx-3070-white-edition-8523.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/gigabyte-rtx-3080-eagle-oc-10gb-7278.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-aorus-rx6800xt-16gb-ddr6-8269.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-tuf-rtx3070-oc-gaming-8gb-7961.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-dual-rtx-3060-ti-oc-8gb-7913.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-tuf-rtx-3070-gaming-8gb-8049.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/gigabyte-rtx-3070-vision-oc-8gb-7788.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/aorus-geforce-rtx-3060-ti-master-8gb-7863.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/aorus-geforce-rtx-3060-ti-eagle-8gb-7897.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx-3060ti-eagle-oc-8gb-7907.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-tuf-rtx-3060-ti-oc-8gb-gaming-7912.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-tuf-rtx-3060-ti-8gb-gaming-7916.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx-3060ti-gaming-oc-8gb-7917.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx3060ti-gaming-oc-pro-8-7918.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx-3060ti-vision-8gb-8439.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-dual-rtx3060ti-mini-oc-8gb-8469.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx3060ti-gaming-oc-pro-8-rev-2-8482.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-rog-strix-rtx-3060-ti-8gb-gaming-7915.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-tuf-rtx-3060-oc-12gb-gaming-8571.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-rog-strix-rtx-3060-oc-12gb-gaming-8573.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-dual-rtx-3060-12gb-8587.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx3060-eagle-oc-12gb-8590.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx3060-gaming-oc-12gb-8591.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-3060-eagle-12gb-8642.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-gigabyte-rtx3060-vision-oc-12gb-8643.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/tarjeta-grafica-asus-dual-rtx3060ti-8gb-7914.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-rog-strix-rtx-3060-12gb-gaming-8574.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-tuf-rtx-3060-12gb-gaming-8572.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-dual-rtx-3060-oc-12gb-8570.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-msi-rx-5700-xt-mech-oc-6442.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-rog-strix-gtx-1660-super-advanced-6g-5171.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-rog-strix-gtx1660-super-oc-6gb-6317.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-phoenix-gtx-1660-super-6gb-5170.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-dual-gtx-1660-super-advanced-6gb-evo-7955.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-phoenix-gtx-1660-super-6gb-oc-5858.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-rog-strix-gtx-1660-super-gaming-6g-5172.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-dual-gtx1660-super-o6g-mini-8207.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-tuf-gtx-1660-super-oc-6gb-5160.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-phoenix-gtx1660-6gb-ph-gtx1660-o6g-3961.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-tuf-gtx1660-6gb-tuf-gtx1660-o6g-3960.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-gigabyte-gtx1660-oc-6gb-3946.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-dual-gtx1660-super-evo-oc-6gb-4653.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-tuf-3-gtx-1660-gaming-6gb-4506.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-msi-gtx-1660-ventus-xs-6gb-oc-ddr5-4039.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-tuf-3-gtx-1660-super-gaming-o6gb-4736.html',     },
   ],
   name: 'neobyte',
 };
