@@ -143,6 +143,7 @@ import {TopAchat} from './topachat';
 import {ToysRUs} from './toysrus';
 import {Umart} from './umart';
 import {Unieuro} from './unieuro';
+import {Updigital} from './updigital';
 import {Very} from './very';
 import {Versus} from './versus';
 import {Vuugo} from './vuugo';
@@ -299,6 +300,7 @@ export const storeList = new Map([
   [ToysRUs.name, ToysRUs],
   [Umart.name, Umart],
   [Unieuro.name, Unieuro],
+  [Updigital.name, Updigital],
   [Very.name, Very],
   [Versus.name, Versus],
   [Vuugo.name, Vuugo],
