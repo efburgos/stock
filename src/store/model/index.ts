@@ -56,6 +56,7 @@ import {EbGames} from './ebgames';
 import {Ebuyer} from './ebuyer';
 import {Efecto2000} from './efecto2000';
 import {Elcorteingles} from './elcorteingles';
+import {Electronicamente} from './electronicamente';
 import {Emerita} from './emerita';
 import {Eprice} from './eprice';
 import {Equippr} from './equippr';
@@ -215,6 +216,7 @@ export const storeList = new Map([
   [Ebuyer.name, Ebuyer],
   [Efecto2000.name, Efecto2000],
   [Elcorteingles.name, Elcorteingles],
+  [Electronicamente.name, Electronicamente],  
   [Emerita.name, Emerita],  
   [Eprice.name, Eprice],
   [Equippr.name, Equippr],
