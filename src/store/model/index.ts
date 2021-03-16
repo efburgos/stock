@@ -100,6 +100,7 @@ import {Neobyte} from './neobyte';
 import {Newegg} from './newegg';
 import {NeweggCa} from './newegg-ca';
 import {NeweggSg} from './newegg-sg';
+import {Newservice} from './newservice';
 import {Nextec} from './nextec';
 import {Notebooksbilliger} from './notebooksbilliger';
 import {Novatech} from './novatech';
@@ -261,6 +262,7 @@ export const storeList = new Map([
   [Newegg.name, Newegg],
   [NeweggCa.name, NeweggCa],
   [NeweggSg.name, NeweggSg],
+  [Newservice.name, Newservice],  
   [Nextec.name, Nextec],  
   [Notebooksbilliger.name, Notebooksbilliger],
   [Novatech.name, Novatech],
