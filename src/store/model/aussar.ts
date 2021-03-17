@@ -41,28 +41,28 @@ export const Aussar: Store = {
 		{
       brand: 'zotac',
       model: 'twin edge',
-      series: '3060Ti',
+      series: '3060ti',
       url:
         'https://www.aussar.es/tarjetas-graficas/zotac-geforce-rtx-3060-ti-twin-edge-8gb.html',
     },
 		{
       brand: 'palit',
       model: 'gaming pro',
-      series: '3060Ti',
+      series: '3060ti',
       url:
         'https://www.aussar.es/tarjetas-graficas/palit-geforce-rtx-3060-ti-dual-8gb.html',
     },
 		{
       brand: 'gigabyte',
       model: 'eagle',
-      series: '3060Ti',
+      series: '3060ti',
       url:
         'https://www.aussar.es/tarjetas-graficas/gigabyte-geforce-rtx-3060-ti-eagle-8g.html',
     },
 		{
       brand: 'gigabyte',
       model: 'gaming oc pro',
-      series: '3060Ti',
+      series: '3060ti',
       url:
         'https://www.aussar.es/tarjetas-graficas/gigabyte-geforce-rtx-3060-ti-gaming-pro-oc-8g.html',
     },
@@ -76,14 +76,14 @@ export const Aussar: Store = {
 		{
       brand: 'zotac',
       model: 'twin edge',
-      series: '3060Ti',
+      series: '3060ti',
       url:
         'https://www.aussar.es/tarjetas-graficas/zotac-geforce-rtx-3060-ti-twin-edge-8gb-oc.html',
     },
 		{
       brand: 'gigabyte',
       model: 'eagle',
-      series: '3060Ti',
+      series: '3060ti',
       url:
         'https://www.aussar.es/tarjetas-graficas/gigabyte-geforce-rtx-3060-ti-eagle-oc-8g.html',
     },
@@ -97,7 +97,7 @@ export const Aussar: Store = {
 	{
       brand: 'gigabyte',
       model: 'gaming oc',
-      series: '3060Ti',
+      series: '3060ti',
       url:
         'https://www.aussar.es/tarjetas-graficas/gigabyte-geforce-rtx-3060-ti-gaming-oc-8g.html',
     },
@@ -111,7 +111,7 @@ export const Aussar: Store = {
 		{
       brand: 'gigabyte',
       model: 'gaming oc',
-      series: '3060Ti',
+      series: '3060ti',
       url:
         'https://www.aussar.es/tarjetas-graficas/gigabyte-geforce-rtx-3060-ti-gaming-oc-8g.html',
     },
@@ -132,7 +132,7 @@ export const Aussar: Store = {
 		{
       brand: 'gigabyte',
       model: 'aorus master',
-      series: '3060Ti',
+      series: '3060ti',
       url:
         'https://www.aussar.es/tarjetas-graficas/gigabyte-aorus-geforce-rtx-3060-ti-master-8g.html',
     },
