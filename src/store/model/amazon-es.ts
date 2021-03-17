@@ -144,11 +144,11 @@ export const AmazonEs: Store = {
       url: 'https://www.amazon.es/dp/B08R3TZHMB',
     },
         {
-      brand: 'asus',
+      brand: 'gigabyte',
       cartUrl:
         'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08KHL21CV&Quantity.1=1',
-      model: 'trinity',
-      series: '3060ti',
+      model: 'gaming oc',
+      series: '3070',
       url: 'https://www.amazon.es/dp/B08KHL21CV',
     },
   ],
