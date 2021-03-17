@@ -360,6 +360,13 @@ export const Aussar: Store = {
       url:
         'https://www.aussar.es/tarjetas-graficas/gigabyte-geforce-rtx-3090-gaming-oc-24g.html',
     },
+	       {
+      brand: 'zotac',
+      model: 'amp holo',
+      series: '3090',
+      url:
+        'https://www.aussar.es/tarjetas-graficas/zotac-gaming-geforce-rtx-3090-trinity-24gb-gddr6x.html',
+    },
   ],
   name: 'aussar',
 };
