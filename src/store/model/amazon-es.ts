@@ -136,68 +136,20 @@ export const AmazonEs: Store = {
       url: 'https://www.amazon.es/dp/B08HR1NPPQ',
     },
     {
-      brand: 'amd',
+      brand: 'asus',
       cartUrl:
-        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08166SLDF&Quantity.1=1',
-      model: '5600x',
-      series: 'ryzen5600',
-      url: 'https://www.amazon.es/dp/B08166SLDF',
+        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08R3TZHMB&Quantity.1=1',
+      model: 'trinity',
+      series: '3060ti',
+      url: 'https://www.amazon.es/dp/B08R3TZHMB',
     },
-    {
-      brand: 'amd',
+        {
+      brand: 'gigabyte',
       cartUrl:
-        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B0815XFSGK&Quantity.1=1',
-      model: '5800x',
-      series: 'ryzen5800',
-      url: 'https://www.amazon.es/dp/B0815XFSGK',
-    },
-    {
-      brand: 'amd',
-      cartUrl:
-        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08164VTWH&Quantity.1=1',
-      model: '5900x',
-      series: 'ryzen5900',
-      url: 'https://www.amazon.es/dp/B08164VTWH',
-    },
-    {
-      brand: 'amd',
-      cartUrl:
-        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B0815Y8J9N&Quantity.1=1',
-      model: '5950x',
-      series: 'ryzen5950',
-      url: 'https://www.amazon.es/dp/B0815Y8J9N',
-    },
-    {
-      brand: 'sony',
-      cartUrl:
-        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08KKJ37F7&Quantity.1=1',
-      model: 'ps5 console',
-      series: 'sonyps5c',
-      url: 'https://www.amazon.es/dp/B08KKJ37F7',
-    },
-    {
-      brand: 'sony',
-      cartUrl:
-        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08KJF2D25&Quantity.1=1',
-      model: 'ps5 digital',
-      series: 'sonyps5de',
-      url: 'https://www.amazon.es/dp/B08KJF2D25',
-    },
-    {
-      brand: 'microsoft',
-      cartUrl:
-        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08H93ZRLL&Quantity.1=1',
-      model: 'xbox series x',
-      series: 'xboxsx',
-      url: 'https://www.amazon.es/dp/B08H93ZRLL',
-    },
-    {
-      brand: 'microsoft',
-      cartUrl:
-        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B087VM5XC6&Quantity.1=1',
-      model: 'xbox series s',
-      series: 'xboxss',
-      url: 'https://www.amazon.es/dp/B087VM5XC6',
+        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08KHL21CV&Quantity.1=1',
+      model: 'gaming oc',
+      series: '3070',
+      url: 'https://www.amazon.es/dp/B08KHL21CV',
     },
   ],
   name: 'amazon-es',
