@@ -92,6 +92,7 @@ export const Neobyte: Store = {
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-tuf-3-gtx-1660-gaming-6gb-4506.html',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-msi-gtx-1660-ventus-xs-6gb-oc-ddr5-4039.html',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/grafica-asus-tuf-3-gtx-1660-super-gaming-o6gb-4736.html',     },
+    {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://www.neobyte.es/asus-rog-strix-rtx-3070-oc-8gb-gaming-7291.html',     },
   ],
   name: 'neobyte',
 };
