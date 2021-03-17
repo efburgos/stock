@@ -7,6 +7,10 @@ export const Newservice: Store = {
       container: '.product-add-to-cart',
       text: ['Añadir al carrito', 'Últimas unidades en stock'],
     },
+    			maxPrice: {
+			container: '.current-price',
+			euroFormat: false
+		},
     outOfStock: {
       container: '.product-add-to-cart',
       text: ['Fuera de stock'],
