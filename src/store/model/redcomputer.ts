@@ -22,7 +22,7 @@ export const Redcomputer: Store = {
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tienda.redcomputer.es/tarjeta-grafica-asus-tuf-rtx-3080-oc-gaming-10gb-3944.html',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tienda.redcomputer.es/tarjeta-grafica-asus-rog-strix-rtx-3080-oc-gaming-3946.html',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tienda.redcomputer.es/tarjeta-grafica-gigabyte-aorus-geforce-rtx-3080-xtreme-10gb-gddr6x-4179.html',     },
-{       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tienda.redcomputer.es/tarjeta-grafica-msi-radeon-rx-6800-xt-gaming-x-trio-16gb-4266.html',     },
+{       brand: 'nvidia',       model: 'founders edition',       series: '3080',       url:         'https://tienda.redcomputer.es/tarjeta-grafica-msi-radeon-rx-6800-xt-gaming-x-trio-16gb-4266.html',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tienda.redcomputer.es/tarjeta-grafica-gigabyte-rtx-3090-eagle-oc-24gb-3940.html',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tienda.redcomputer.es/tarjeta-grafica-gigabyte-rtx-3090-gaming-oc-24gb-3939.html',     },
 {       brand: 'nvidia',       model: 'founders edition',       series: '3060ti',       url:         'https://tienda.redcomputer.es/tarjeta-grafica-asus-tuf-rtx-3090-oc-gaming-24gb-3948.html',     },
