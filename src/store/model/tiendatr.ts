@@ -18,58 +18,58 @@ export const Tiendatr: Store = {
   },
   links: [
     {
-      brand: 'msi',
-      model: 'ventus 3x oc',
+      brand: 'evga',
+      model: 'ftw3 ultra',
       series: '3080',
       url:
         'https://www.tiendatr.com/tarjeta-grafica-evga-geforce-rtx-3080-ftw3-ultra-gaming--10gb-gddr6x',
     },
 	{
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
+      brand: 'evga',
+      model: 'ftw3 ultra',
+      series: '3070',
       url:
         'https://www.tiendatr.com/tarjeta-grafica-evga-geforce-rtx-3070-ftw3-ultra-gaming-8gb-gddr6',
     },
 		{
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
+      brand: 'gigabyte',
+      model: 'aorus master',
+      series: '3070',
       url:
         'https://www.tiendatr.com/tarjeta-grafica-gigabyte-aorus-geforce-rtx-3070-master-8g-8gb-gddr6',
     },
 		{
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
+      brand: 'gigabyte',
+      model: 'vision oc',
+      series: '3070',
       url:
         'https://www.tiendatr.com/tarjeta-grafica-gigabyte-geforce-rtx-3070-vision-oc-8g--8gb-gddr6',
     },
 		{
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
+      brand: 'evga',
+      model: 'xc3 ultra',
+      series: '3070',
       url:
         'https://www.tiendatr.com/tarjeta-grafica-evga-geforce-rtx-3070-xc3-ultra-gaming-8gb-gddr6',
     },
 		{
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3070',
       url:
         'https://www.tiendatr.com/tarjeta-grafica-gigabyte-geforce-rtx-3070-eagle-oc-8g-8gb-gddr6',
     },
 			{
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
+      brand: 'evga',
+      model: 'xc gaming',
+      series: '3060ti',
       url:
         'https://www.tiendatr.com/tarjeta-grafica-evga-geforce-rtx-3060-ti-xc-gaming-8gb-gddr6',
     },
 			{
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3060ti',
       url:
         'https://www.tiendatr.com/tarjeta-grafica-gigabyte-geforce-rtx-3060-ti-gaming-oc-pro--8gb-gddr6-2',
     },

@@ -18,37 +18,37 @@ export const Kosa: Store = {
   },
   links: [
     {
-      brand: 'msi',
-      model: 'ventus 3x oc',
+      brand: 'evga',
+      model: 'ftw3',
       series: '3080',
       url:
         'https://kosa.es/tienda/componentes/tarjetas-graficas/tarjeta-grafica-evga-geforce-rtx-3080-ftw3-gaming-10gb-gddr6x/',
     },
     {
-      brand: 'msi',
-      model: 'ventus 3x oc',
+      brand: 'gigabyte',
+      model: 'gaming oc',
       series: '3080',
       url:
         'https://kosa.es/tienda/componentes/tarjetas-graficas/tarjeta-grafica-gigabyte-geforce-rtx-3080-gaming-oc-10g-10gb-gddr6x/',
     },
 	    {
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3060ti',
       url:
         'https://kosa.es/tienda/componentes/tarjetas-graficas/tarjeta-grafica-gigabyte-geforce-rtx-3060-ti-gaming-oc-8g-8gb-gddr6/',
     },
 		    {
-      brand: 'msi',
-      model: 'ventus 3x oc',
+      brand: 'evga',
+      model: 'xc3 black',
       series: '3080',
       url:
         'https://kosa.es/tienda/componentes/tarjetas-graficas/tarjeta-grafica-evga-geforce-rtx-3080-xc3-black-gaming-10gb-gddr6x//',
     },
 			    {
-      brand: 'msi',
-      model: 'ventus 3x oc',
-      series: '3080',
+      brand: 'evga',
+      model: 'ftw3 ultra',
+      series: '3090',
       url:
         'https://kosa.es/tienda/componentes/tarjetas-graficas/tarjeta-grafica-evga-geforce-rtx-3090-ftw3-ultra-gaming-24gb-gddr6x/',
     },
