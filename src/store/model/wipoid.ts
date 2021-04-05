@@ -26,20 +26,6 @@ export const Wipoid: Store = {
     },
     {
       brand: 'asus',
-      model: 'strix',
-      series: '3060',
-      url:
-        'https://www.wipoid.com/asus-rog-strix-geforce-rtx-3060-12gb-gddr6.html',
-    },
-    {
-      brand: 'asus',
-      model: 'strix oc',
-      series: '3060',
-      url:
-        'https://www.wipoid.com/asus-rog-strix-geforce-rtx-3060-oc-edition-12gb-gddr6.html',
-    },
-    {
-      brand: 'asus',
       model: 'tuf',
       series: '3060ti',
       url:
@@ -387,6 +373,13 @@ export const Wipoid: Store = {
       url:
         'https://www.wipoid.com/msi-geforce-rtx-3080-suprim-x-10gb-gddr6x.html',
     },
+	{
+      brand: 'msi',
+      model: 'suprim x',
+      series: '3080',
+      url:
+        'https://www.wipoid.com/asus-rog-strix-geforce-rtx-3080-oc-white-10gb-gddr6x.html',
+    },
     {
       brand: 'zotac',
       model: 'amp holo',
@@ -497,30 +490,6 @@ export const Wipoid: Store = {
       series: '3090',
       url:
         'https://www.wipoid.com/evga-geforce-rtx-3090-xc3-ultra-gaming-24gb-gddr6x.html',
-    },
-    {
-      brand: 'amd',
-      model: '5600x',
-      series: 'ryzen5600',
-      url: 'https://www.wipoid.com/amd-ryzen-5-5600x-3-7ghz.html',
-    },
-    {
-      brand: 'amd',
-      model: '5800x',
-      series: 'ryzen5800',
-      url: 'https://www.wipoid.com/amd-ryzen-7-5800x-3-8ghz.html',
-    },
-    {
-      brand: 'amd',
-      model: '5900x',
-      series: 'ryzen5900',
-      url: 'https://www.wipoid.com/amd-ryzen-9-5900x-3-7ghz.html',
-    },
-    {
-      brand: 'amd',
-      model: '5950x',
-      series: 'ryzen5950',
-      url: 'https://www.wipoid.com/amd-ryzen-9-5950x-3-4ghz.html',
     },
   ],
   name: 'wipoid',
