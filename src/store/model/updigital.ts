@@ -13,7 +13,7 @@ export const Updigital: Store = {
     },
   },
   links: [
-		{       brand: 'asus',       model: 'strix',       series: '3080',       url:         'https://updigital-almeria.es/tarjetas-graficas-pci-e/-PNY-VGA-NVIDIA-RTX-3090-24GB-XLR8-Gaming-UPRISING{-:ean1343181-.html',     },
+{       brand: 'asus',       model: 'strix',       series: '3080',       url:         'https://updigital-almeria.es/tarjetas-graficas-pci-e/-PNY-VGA-NVIDIA-RTX-3090-24GB-XLR8-Gaming-UPRISING{-:ean1343181-.html',     },
 {       brand: 'asus',       model: 'strix',       series: '3080',       url:         'https://updigital-almeria.es/tarjetas-graficas-pci-e/-MSI-VGA-NVIDIA-RTX-3090-SUPRIM-X-24G-DDR6X{-:ean1342563-.html',     },
 {       brand: 'asus',       model: 'strix',       series: '3080',       url:         'https://updigital-almeria.es/tarjetas-graficas-pci-e/-Gigabyte-Aorus-VGA-NVIDIA-RTX-3090-XTREM-W24-DDR6X{-:ean1336314-.html',     },
 {       brand: 'asus',       model: 'strix',       series: '3080',       url:         'https://updigital-almeria.es/tarjetas-graficas-pci-e/-Gigabyte-Aorus-VGA-NVIDIA-RTX-3090-XTREM-WB24-DDR6{-:ean1339031-.html',     },
