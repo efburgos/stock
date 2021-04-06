@@ -17,7 +17,7 @@ export const PCComponentes: Store = 		{
     },
   },
   links: [
-		{       brand: 'msi',       model: 'ventus 3x oc',       series: '3080',       url:         'https://www.pccomponentes.com/asus-rog-strix-geforce-rtx-3080-10g-gaming-oc-10gb-gddr6x-reacondicionado',     },
+{       brand: 'msi',       model: 'ventus 3x oc',       series: '3080',       url:         'https://www.pccomponentes.com/asus-rog-strix-geforce-rtx-3080-10g-gaming-oc-10gb-gddr6x-reacondicionado',     },
 {       brand: 'msi',       model: 'ventus 3x oc',       series: '3080',       url:         'https://www.pccomponentes.com/asus-tuf-geforce-rtx-3060ti-o8g-gaming-8gb-gddr6-reacondicionado',     },
 {       brand: 'msi',       model: 'ventus 3x oc',       series: '3080',       url:         'https://www.pccomponentes.com/evga-geforce-rtx-3080-xc3-black-gaming-10gb-gddr6x-reacondicionado',     },
 {       brand: 'msi',       model: 'ventus 3x oc',       series: '3080',       url:         'https://www.pccomponentes.com/evga-geforce-rtx-3080-xc3-gaming-10gb-gddr6x-reacondicionado',     },
